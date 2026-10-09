@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Home Nomada Solutions
 ---
 # Welcome Nomada Solutions
 
