@@ -12,13 +12,7 @@ We provide expert consulting services in
 - Application compliance within the Cyfun Framework
 - (Micro)service based architectures
 
-## Portfolio
-
-Here is the updated Markdown list with all "Associated with" entries removed:
-
----
-
-# Projects
+## Projects
 
 ### Physical Mail Registration and Distribution
 - **Role:** Business Analyst / Functional Analyst (BA/FA)
