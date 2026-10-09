@@ -7,6 +7,7 @@ title: Home Nomada Solutions
 
 *   [Services](#services)
 *   [Projects](#projects)
+*   [Contact](#contact)
 
 ## Services
 
