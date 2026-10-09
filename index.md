@@ -3,7 +3,7 @@ layout: default
 title: Home Nomada Solutions
 ---
 
-# Welcome Nomada Solutions
+# Welcome to Nomada Solutions
 
 ## Services
 
