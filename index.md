@@ -1,14 +1,7 @@
 ---
-layout: default
+layout: jekyll-theme-minimal
 title: Home Nomada Solutions
 ---
-
-<style>
-  h1 a,
-  h1 {
-    display: none !important;
-  }
-</style>
 
 # Welcome Nomada Solutions
 
