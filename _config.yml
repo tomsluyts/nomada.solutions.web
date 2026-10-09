@@ -1,2 +1,9 @@
 title: "Nomada Solutions"
 description: "Nomada Solutions Company Site"
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+
+# Configure the skin
+minima:
+  skin: dark 
