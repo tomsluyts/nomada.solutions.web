@@ -4,13 +4,8 @@ title: Home Nomada Solutions
 ---
 
 <style>
-  header,
-  .site-header,
-  .page-header,
-  .project-name,
-  .project-tagline,
-  .btn,
-  a[href*="github.com"] {
+  h1 a,
+  h1 {
     display: none !important;
   }
 </style>
