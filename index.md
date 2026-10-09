@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Home Nomada Solutions
+nav_order: 2
 ---
 
 # Company Site
