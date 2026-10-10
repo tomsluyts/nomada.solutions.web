@@ -1,8 +1,3 @@
----
-layout: default
-title: Home Nomada Solutions
----
-
 # Get to know us
 
 *   [Services](#services)
