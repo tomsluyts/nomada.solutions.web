@@ -99,11 +99,11 @@ We provide expert consulting services in
 
 ### Central API Engine Services (City of Antwerp)
 *Rollout, backlog management, and functional support for centralized, reusable API microservices across Antwerp business units:*
-- **Digital Assets Engine (Mediamosa)** | Feb 2016 – Mar 2017 *(Role: PO)*
-- **Digital Signature Engine (Connective)** | Feb 2016 – Mar 2017 *(Role: PO)*
-- **Multilanguage Engine (Development Track)** | Feb 2016 – Mar 2017 *(Role: PO)*
-- **Workflow Engine (Activiti)** | Feb 2016 – Mar 2017 *(Role: PO)*
-- **eID Authentication (Dioss)** | Feb 2016 – Mar 2017 *(Role: PO)*
+- **Digital Assets Engine (Mediamosa)** Feb 2016 – Mar 2017 *(Role: PO)*
+- **Digital Signature Engine (Connective)** Feb 2016 – Mar 2017 *(Role: PO)*
+- **Multilanguage Engine (Development Track)** Feb 2016 – Mar 2017 *(Role: PO)*
+- **Workflow Engine (Activiti)** Feb 2016 – Mar 2017 *(Role: PO)*
+- **eID Authentication (Dioss)** Feb 2016 – Mar 2017 *(Role: PO)*
 
 ### Social Software Platform
 - **Role:** Enterprise Architect (EA)
