@@ -2,3 +2,6 @@
 ---
 
 @import "jekyll-theme-minimal";
+header {
+  h1 a: none !important;
+}
