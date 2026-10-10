@@ -3,7 +3,7 @@ layout: default
 title: Home Nomada Solutions
 ---
 
-# Company Site
+# Our Story
 
 *   [Services](#services)
 *   [Projects](#projects)
