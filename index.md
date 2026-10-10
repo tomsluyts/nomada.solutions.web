@@ -21,7 +21,7 @@ We provide expert consulting services in
 
 ## Projects
 
-### Physical Mail Registration and Distribution
+### Physical Mail Registration, Scan and Digital Distribution
 - **Role:** Business Analyst / Functional Analyst (BA/FA)
 - **Duration:** Jul 2022 – Present
 - **Description:** Business and functional analysis, including gathering procurement requirements for the incoming (paper) mail registration and recipient distribution system for the City of Antwerp.
