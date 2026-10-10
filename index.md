@@ -6,7 +6,6 @@ layout: default
 
 *   [Services](#services)
 *   [Projects](#projects)
-*   [Contact](#contact)
 
 ## Services
 
@@ -71,17 +70,17 @@ We provide expert consulting services in
 - **Duration:** Sep 2017 – Jan 2021
 - **Description:** Custom-developed platform for planning work and personnel across the City of Antwerp. Composed of interconnected apps: to-do app (`a-todo`), rostering (`plan-a`), work planning (`planbord`), and recurrent work planner (`serviceplanner`). Plans 2,000+ non-flex employees.
 
-### Circular South - Manychain Engine
+### Circular South - Manychain Engine (EU, Urban Innovative Actions)
 - **Role:** Functional Analyst / Enterprise Architect (FA/EA)
 - **Duration:** May 2020 – Dec 2020
 - **Description:** Architectural design for an online community platform using a blockchain-based rewarding/exchange mechanism to foster circular behavior. Implemented a blockchain API abstraction layer across Ethereum and Hyperledger Fabric.
 
-### Circular South - IoT Integration
+### Circular South - IoT Integration (EU, Urban Innovative Actions)
 - **Role:** Enterprise Architect / Functional Analyst (EA/FA)
 - **Duration:** Oct 2017 – Mar 2019
 - **Description:** Real-time personal dashboard displaying consumption data flows from smart energy, water, and waste-bin meters. Handled platform architecture and implementation of data streams.
 
-### Circular South - Reward System on Blockchain
+### Circular South - Reward System on Blockchain (EU, Urban Innovative Actions)
 - **Role:** Product Owner / Business Analyst / Functional Analyst (PO/BA/FA)
 - **Duration:** Jan 2017 – Dec 2017
 - **Description:** Solution delivery for behavioral nudging and circular incentives via blockchain (whitepaper, wallet, challenge builder, and administration app). Handled pre-analysis, procurement, and PO duties.
@@ -153,5 +152,3 @@ We provide expert consulting services in
 - **Duration:** Apr 2014 – Aug 2014
 - **Contributors:** Kris
 - **Description:** .NET MVC CMS for business clients to publish postings across Selor channels and third-party media (Google AdWords, social media) using a credit-based payment model.
-
-## Contact
