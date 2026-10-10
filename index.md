@@ -108,46 +108,46 @@ We provide expert consulting services in
 - **Duration:** Mar 2017
 - **Description:** Defined as-is capabilities and target architecture for the replacement of the OCMW Antwerp application landscape using a (micro)service-based approach.
 
-### Additional Screening - Selor
+### Additional Screening (Selor)
 - **Role:** Business Analyst / Functional Analyst (BA/FA)
 - **Duration:** Jan 2015 – Feb 2016
 - **Contributors:** Tim, Yassine
 - **Description:** System allowing government departments to recruit candidates who completed screenings elsewhere. Defined complex business rules to guarantee fairness and impartiality.
 
-### Targetstructure - Selor
+### Targetstructure (Selor)
 - **Role:** Business Analyst / Functional Analyst (BA/FA)
 - **Duration:** Nov 2015 – Feb 2016
 - **Description:** Redesigned competency scoring structures used for integrated testing sessions to satisfy modern business needs without requiring a full re-engineering of the legacy stack.
 
-### Third Party Clients - Selor
+### Third Party Clients (Selor)
 - **Role:** Business Analyst / Functional Analyst (BA/FA)
 - **Duration:** Jul 2015 – Feb 2016
 - **Description:** Platform opening Selor’s testing pipeline to third-party clients (e.g., security companies). Functional analysis and project management using Enterprise Architect, TFS, UML, and Agile user stories.
 
-### Decentralised Testing (TestNavigator) - Selor
+### Decentralised Testing (TestNavigator) (Selor)
 - **Role:** Business Analyst / Functional Analyst (BA/FA)
 - **Duration:** Nov 2014 – Dec 2015
 - **Contributors:** Pieter
 - **Description:** Application for decentralized candidate testing, candidate authentication, test selection, and third-party platform integration. SPA built on ASP.NET MVC and AngularJS.
 
-### Enterprise Architecture Application Landscape - Selor
+### Enterprise Architecture Application Landscape (Selor)
 - **Role:** Enterprise Architect (EA)
 - **Duration:** Jul 2015 – Sep 2015
 - **Contributors:** Wouter
 - **Description:** Mapped the application landscape and its interactions with business and infrastructure layers using ArchiMate to streamline application and portfolio management.
 
-### Move - Selor
+### Move (Selor)
 - **Role:** Business Analyst / Functional Analyst (BA/FA)
 - **Duration:** Aug 2014 – Apr 2015
 - **Contributors:** Yassine
 - **Description:** SPA kiosk/dashboard providing event details, candidate attendance checks, and PC station monitoring. Built on ASP.NET MVC and AngularJS.
 
-### Recruitment - Selor
+### Recruitment (Selor)
 - **Role:** Business Analyst / Functional Analyst (BA/FA)
 - **Duration:** Jul 2014 – Nov 2014
 - **Description:** Feature expansion and business requirements alignment for Selor's corporate recruitment platform using Enterprise Architect, TFS, and UML in an Agile environment (.NET MVC).
 
-### Autonoom Publiceren - Selor
+### Autonoom Publiceren (Selor)
 - **Role:** Business Analyst / Functional Analyst (BA/FA)
 - **Duration:** Apr 2014 – Aug 2014
 - **Contributors:** Kris
