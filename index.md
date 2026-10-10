@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Get to know us
 
 *   [Services](#services)
