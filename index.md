@@ -12,7 +12,7 @@ layout: default
 We provide expert consulting services in
 
 - Enterprise architecture in complex technical and organisational environments
-- Application compliance within the Cyfun Framework
+- NIS2 - cyber resiience and security of the application layer using the Cyfun framework
 - (Micro)service based architectures
 - Functional analysis
 - Business analysis
