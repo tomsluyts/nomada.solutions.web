@@ -20,9 +20,14 @@ We provide expert consulting services in
 
 ## Projects
 
+### NIS2 Compliancy Program
+- **Role:** Enterprise Architect
+- **Duration:** Oct 2024 – Apr 2027
+- **Description:** NIS2 Compliancy for a complex application and organisation landscape, focus on making the application layer compliant using Cyfun as a framework.
+
 ### Physical Mail Registration, Scan and Digital Distribution
 - **Role:** Business Analyst / Functional Analyst (BA/FA)
-- **Duration:** Jul 2022 – Present
+- **Duration:** Jul 2022 – Oct 2024
 - **Description:** Business and functional analysis, including gathering procurement requirements for the incoming (paper) mail registration and recipient distribution system for the City of Antwerp.
 
 ### Green and Orange Cyberattack Recovery Zones
